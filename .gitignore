@@ -1,0 +1,14 @@
+.gitignore
+*.pptx
+*.pyc
+__pycache__/
+*.egg-info/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.env
+dist/
+build/
